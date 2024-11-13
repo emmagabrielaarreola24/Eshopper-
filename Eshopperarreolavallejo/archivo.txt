@@ -1,0 +1,8 @@
+1, blusa,100,damas
+2, lentes,300,caballeros
+3, playera,250,caballeros
+4, blusa ligera,100,damas
+5, vestido,450,damas
+6, playera roja,300,caballeros
+7, calcetines,80,caballeres
+8, pijama de pinguino,180,niños
